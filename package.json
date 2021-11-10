@@ -83,7 +83,7 @@
         "raw-body": "2.3.2",
         "semver": "5.4.1",
         "sentiment": "2.1.0",
-        "uglify-js": "3.3.6",
+        "uglify-js": "3.14.3",
         "when": "3.7.8",
         "ws": "1.1.5",
         "xml2js": "0.4.19"
